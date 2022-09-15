@@ -4,10 +4,13 @@
 
 <h4> Repositório criado para documentar meu passo a passo no Database Experience! Um programa para profissionais que procuram uma experiência rápida em Ciência de Dados para se aprimorar nos principais conceitos de banco de dados SQL e NoSQL. </h4>
 
-<h2> 🎯 Objetivo </h2>
-Criar um esquema conceitual do zero. 
-A partir da narrativa fornecida, criar todas as entidades, relacionamentos e atributos.
 
+<h2 dir="auto"> 🎯 Objetivo </h2>
+<ul dir="auto">
+ <li> Criar um esquema conceitual do zero. </li>
+ <li> A partir da narrativa fornecida, criar todas as entidades, relacionamentos e atributos.</li>
+
+</ul>
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
